@@ -1,5 +1,5 @@
 // JavaScript source code
-/*
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!thats work only in CRAMPERJS
 Author : MTHRHCKR 
 TIMESTAMP : 24.01.22
 downloader 4 https://bibl.us/
